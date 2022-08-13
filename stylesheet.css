@@ -19,7 +19,7 @@ ul {
     display: inline-flex;
     gap: 30px;
     padding-top: 2em;
-    padding-left: 40em;
+    padding-left: 30em;
     padding-right: 1em;
     margin-right: 0.5em;
     list-style-type: none;
@@ -29,6 +29,7 @@ ul {
 
 .hero {
     background-color: #1f2937;
+    width: 100%;
 }
 
 h1 {
@@ -43,6 +44,7 @@ p {
     color: #e5e7eb;
     font-size: 18px;
     padding-left: 1.25em;
+    padding-right: 1em;
 }
 
 #button {
